@@ -1,0 +1,1 @@
+C:\Users\isaac\source\repos\Calculadora\Calculadora\Calculadora.csproj;x64
